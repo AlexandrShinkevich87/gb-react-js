@@ -13,3 +13,10 @@ ReactJS. Базовый курс
 Официальная документация Babel (https://babeljs.io/)
 Статья “Настройка Babel & Webpack для React-проекта” (https://medium.com/javascript-in-plain-english/webpack-and-babel-setup-with-react-from-scratch-bef0fe2ae3e7)
 Статья “Чистые функции в javascript” (https://habr.com/ru/post/437512/)
+
+Урок 5. Контекст. Компоненты высшего порядка. Знакомство с Redux
+Задание
+1. Установить redux, react-redux.
+2. Создать редьюсер профиля.Подключить страницу профиля к redux.
+3. Добавить на странице профиля чекбокс и сохранение его состояния в сторе.
+4. Установить и настроить redux devtools.
