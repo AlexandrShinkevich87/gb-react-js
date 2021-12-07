@@ -13,3 +13,11 @@ ReactJS. Базовый курс
 Официальная документация Babel (https://babeljs.io/)
 Статья “Настройка Babel & Webpack для React-проекта” (https://medium.com/javascript-in-plain-english/webpack-and-babel-setup-with-react-from-scratch-bef0fe2ae3e7)
 Статья “Чистые функции в javascript” (https://habr.com/ru/post/437512/)
+
+Урок 7. Redux middlewares. Redux-persist.
+Задание
+1. Установить и подключить к стору redux-thunk.
+2. Перенести в миддлвар логику ответа робота.
+3. Разделить, где имеет смысл, компоненты на контейнеры и презентационные.
+4. Установить и настроить redux-persist.
+5. * Использовать в качестве миддлвара redux-saga
